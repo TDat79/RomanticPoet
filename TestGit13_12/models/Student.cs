@@ -8,5 +8,6 @@ namespace TestGit13_12.models
 {
     internal class Student
     {
+        public int Id { get; set; }
     }
 }
